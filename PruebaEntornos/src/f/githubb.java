@@ -18,6 +18,7 @@ import java.util.Scanner;
 	
 		int menu = 0;
 		int numero1=0,numero2 = 0;
+		int x=1;
 	
 		
 		
